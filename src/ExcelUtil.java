@@ -6,4 +6,8 @@ public class ExcelUtil {
     public void method2(){
         // write cell
     }
+
+    public void method3(){
+        //does x thing
+    }
 }
